@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring--00-LoselyCoupled/spring--00-LoselyCoupled.iml" filepath="$PROJECT_DIR$/spring--00-LoselyCoupled/spring--00-LoselyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring--00-springContainer/spring--00-springContainer.iml" filepath="$PROJECT_DIR$/../spring--00-springContainer/spring--00-springContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-00-TightlyCoupled/spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/spring-00-TightlyCoupled/spring-00-TightlyCoupled.iml" />
+    </modules>
+  </component>
+</project>
