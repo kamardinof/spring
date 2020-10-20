@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../spring--00-springContainer/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-020-DI-ConstructonInjections/pom.xml" />
       </list>
     </option>
   </component>

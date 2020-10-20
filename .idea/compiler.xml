@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring--00-springContainer" />
+        <module name="Spring-020-DI-ConstructonInjections" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring--00-springContainer" target="1.8" />
+      <module name="Spring-020-DI-ConstructonInjections" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
