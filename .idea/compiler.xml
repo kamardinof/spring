@@ -6,13 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring-03-BeanScope-SingleTon-Prototype" />
+        <module name="project -05-javaAnnotations" />
+        <module name="Spring-05-Autowired" />
+        <module name="Spring-04-BeanLifeCycle-InitAndDestroy" />
+        <module name="Spring-02-SingeTone-Prototype" />
         <module name="spring--00-springContainer" />
-        <module name="Spring-020-DI-ConstructonInjections" />
+        <module name="spring-02-DI-SetterInjection" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="project -05-javaAnnotations" target="1.8" />
       <module name="spring--00-springContainer" target="1.8" />
+      <module name="Spring-02-DI-SetterInjection" target="1.8" />
+      <module name="spring-02-DI-SetterInjection" target="1.8" />
+      <module name="Spring-02-SingeTone-Prototype" target="1.5" />
       <module name="Spring-020-DI-ConstructonInjections" target="1.8" />
+      <module name="Spring-03-BeanScope-SingleTon-Prototype" target="1.5" />
+      <module name="Spring-04-BeanLifeCycle-InitAndDestroy" target="1.8" />
+      <module name="Spring-05-Autowired" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

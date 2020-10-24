@@ -5,7 +5,18 @@
       <list>
         <option value="$PROJECT_DIR$/../spring--00-springContainer/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring-020-DI-ConstructonInjections/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-02-DI-SetterInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-00-TightlyCoupled/Spring-03-BeanScope-SingleTon-Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-02-SingeTone-Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-04-BeanLifeCycle-InitAndDestroy/pom.xml" />
+        <option value="$PROJECT_DIR$/../project -05-javaAnnotations/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-05-Autowired/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../Spring-020-DI-ConstructonInjections/Spring-02-DI-SetterInjection/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">
