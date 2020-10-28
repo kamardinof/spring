@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-03-BeanScope-SingleTon-Prototype" />
+        <module name="Spring-06-PostConstructPreDestroy" />
+        <module name="spring-05-qualifier" />
         <module name="project -05-javaAnnotations" />
         <module name="Spring-05-Autowired" />
+        <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-04-BeanLifeCycle-InitAndDestroy" />
         <module name="Spring-02-SingeTone-Prototype" />
+        <module name="Spring-06-JavaCode-Configuration" />
         <module name="spring--00-springContainer" />
         <module name="spring-02-DI-SetterInjection" />
       </profile>
@@ -25,6 +29,17 @@
       <module name="Spring-03-BeanScope-SingleTon-Prototype" target="1.5" />
       <module name="Spring-04-BeanLifeCycle-InitAndDestroy" target="1.8" />
       <module name="Spring-05-Autowired" target="1.5" />
+      <module name="spring-05-qualifier" target="1.8" />
+      <module name="Spring-05-Value" target="1.5" />
+      <module name="Spring-06-JavaCode-Configuration" target="1.8" />
+      <module name="Spring-06-PostConstructPreDestroy" target="1.8" />
+      <module name="Spring-07-SpringBoot-Demo" target="1.8" />
+      <module name="Value" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
+    </option>
   </component>
 </project>
